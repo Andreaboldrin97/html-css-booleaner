@@ -1,0 +1,74 @@
+/* inizio header*/
+header{
+    margin: -1%;
+    padding: 0%;
+}
+.head{
+    background-color:rgb(81,125, 193) ;
+    background-image: url(imgC/pattern.png);
+}
+#logo{
+    margin-top: 5%;
+    margin-left: 5%;
+    width: 30%;
+}
+/* prima section */
+.title h1{
+    font-size: 50px;
+}
+.info{
+    color: rgb(168,168,168);
+}
+.info a{
+    color:rgb(81,125, 193) ;
+    text-decoration: none;
+}
+.imgberners-lee img{
+    width: 45%;
+    height: 400px;
+}
+.title p{
+    font-size: 10px;
+}
+.highlighted{
+    background-color: yellow;
+}
+/* seconda section */
+/* tabella */
+table {
+    border-collapse: collapse;
+    width: 100%;
+}
+th, td {
+    text-align: left;
+    padding: 8px;
+    width: 30%;
+}
+.alternate {
+    background-color: rgb(188,277,240);
+}
+th {
+    background-color: rgb(81,166,224);
+    color: white;
+}
+/* footer */
+.tiltle-img{
+    color: white;
+}
+#monitorimg{
+    background-image: url(imgC/monitor.jpg);
+    width: 300px;
+    height: 200px;
+}
+#graphimg{
+    width: 300px;
+    height: 200px;
+    background-image: url(imgC/graph.jpg);
+}
+/*modifiche bonus*/
+main , footer{
+    margin:0% 10%;
+}
+ul{
+    padding: 1%;
+}
