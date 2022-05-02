@@ -1,12 +1,16 @@
 
 /* inizio header*/
+header{
+    margin: -1%;
+    padding: 0%;
+}
 .head{
     background-color:rgb(81,125, 193) ;
     background-image: url(img/pattern.png);
-    width: 100%;
 }
 #logo{
     margin-top: 5%;
+    margin-left: 5%;
     width: 30%;
 }
 /* prima section */
