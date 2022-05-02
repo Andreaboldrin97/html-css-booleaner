@@ -20,9 +20,9 @@
     color:rgb(81,125, 193) ;
     text-decoration: none;
 }
-/*.imgberners-lee img{
+.imgberners-lee img{
     width: 45%;
-}*/
+}
 .title p{
     font-size: 10px;
 }
@@ -46,4 +46,18 @@ th, td {
 th {
     background-color: rgb(81,166,224);
     color: white;
+}
+/* footer */
+.tiltle-img{
+    color: white;
+}
+#monitorimg{
+    background-image: url(img/monitor.jpg);
+    width: 300px;
+    height: 200px;
+}
+#graphimg{
+    width: 300px;
+    height: 200px;
+    background-image: url(img/graph.jpg);
 }
