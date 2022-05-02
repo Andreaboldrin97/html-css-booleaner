@@ -3,3 +3,11 @@
     padding: 0;
     box-sizing: border-box;
 }
+.head{
+    background-color:rgb(81,125, 193) ;
+    background-image: url(img/pattern.png);
+}
+#logo{
+    margin-top: 5%;
+    width: 30%;
+}
