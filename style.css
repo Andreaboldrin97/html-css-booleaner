@@ -1,16 +1,15 @@
-*{
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-}
+
+/* inizio header*/
 .head{
     background-color:rgb(81,125, 193) ;
     background-image: url(img/pattern.png);
+    width: 100%;
 }
 #logo{
     margin-top: 5%;
     width: 30%;
 }
+/* prima section */
 .title h1{
     font-size: 50px;
 }
@@ -21,9 +20,30 @@
     color:rgb(81,125, 193) ;
     text-decoration: none;
 }
-.imgberners-lee img{
+/*.imgberners-lee img{
     width: 45%;
-}
+}*/
 .title p{
     font-size: 10px;
+}
+.highlighted{
+    background-color: yellow;
+}
+/* seconda section */
+/* tabella */
+table {
+    border-collapse: collapse;
+    width: 100%;
+}
+th, td {
+    text-align: left;
+    padding: 8px;
+    width: 30%;
+}
+.alternate {
+    background-color: rgb(188,277,240);
+}
+th {
+    background-color: rgb(81,166,224);
+    color: white;
 }
